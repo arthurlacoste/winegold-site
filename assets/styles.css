@@ -7266,7 +7266,7 @@ html.windows [data-for-os=mac] {
     display: none !important
 }
 .app-screenshot {
-    max-width: 1072px;
+    max-width: 100%;
 }
 .terms-and-conditions,
 .eula {
